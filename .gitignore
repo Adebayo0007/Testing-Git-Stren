@@ -10,6 +10,11 @@
 *.userosscache
 *.sln.docstates
 style.css
+help.css
+ghgh.html
+
+
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
